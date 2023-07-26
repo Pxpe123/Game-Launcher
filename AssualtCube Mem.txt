@@ -1,0 +1,29 @@
+00813780
+EC - offset
+
+
+Main PlayerBase =
+008137A8
+C4
+
+points to: 008137A8  28
+
+PlayerBase + 
+0 = xPos
+4 = zPos
+8 = yPos
+
+C = MouseX 
+10 = MouseY
+C4 = Health-
+
+ENEMY COORDS
+BASE "ac_client.exe"+0016F338
+4, EC
+
+0701B034 - c4
+
+
+EPISODE 8 
+0;26
+Line 162
