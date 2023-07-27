@@ -7,14 +7,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using SpotifyAPI.Web;
-
 
 namespace GameLauncher.Forms
 {
     public partial class FormMusic2 : Form
     {
-
         public FormMusic2()
         {
             InitializeComponent();
@@ -29,12 +26,5 @@ namespace GameLauncher.Forms
         {
 
         }
-
-        private void iconButton1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-
     }
 }
