@@ -41,7 +41,7 @@ namespace GameLauncher.Forms.Login_Form
         {
 
             if (txtUsername.Text == "" && txtPassword.Text == "")
-            {
+            { 
                 MessageBox.Show("Please do not leave Username or Password Black", "Registration Failed", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 txtUsername.Text = "";
                 txtPassword.Text = "";
